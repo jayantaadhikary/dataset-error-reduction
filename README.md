@@ -12,9 +12,9 @@ Fork and Clone this Repository.
 
 `OPENAI_API_KEY = YOUR_API_KEY`
 
-2. If you are using a LLM model locally using a local server, then use the files inside of the LocalLLM folder instead of the default files. 
+2. If you are using a LLM model locally using a local server, then use the files inside of the LocalLLM folder instead of the default files. The folder /ollama consists of my notebooks which were using Ollama to run LLMs locally. 
 
-PS - I use [LM Studio](https://lmstudio.ai/) to run the LLMs locally. 
+PS - I use [LM Studio](https://lmstudio.ai/) and [Ollama](https://ollama.ai)to run the LLMs locally. 
 
 #### References:
 1. [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://aclanthology.org/D16-1264) (Rajpurkar et al., EMNLP 2016)
